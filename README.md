@@ -10,9 +10,10 @@ Curated list of awesome electric vehicles and resources, inspired by [awesome-au
 * [Courses](#courses)
 * [Blogs and Mags](#blogs-and-mags)
 * [Articles](#articles)
-* [Research Papers](#research-papers)
 * [Hardware Technology](#hardware-technology)
 * [Software Technology](#software-technology)
+* [Software IDE](#software-ide)
+* [Research Papers](#research-papers)
 * [Universites and Research Labs](#universities-and-research-labs)
 * [The Electric Market](#the-electric-market)
   - [Electric Cars](#electric-cars)
@@ -57,7 +58,7 @@ is a very interactive, free and downloadable EV magazine.
 Lamborghini and MIT patent a new material for supercapacitors! How electrifying is that?
 
 [***Five challanges on the road to E-mobility:***](https://www.volvoce.com/global/en/news-and-events/news-and-stories/2019/five-challenges-on-the-road-to-electromobility/)
-Hear from Volvo on notch challenges towards the electromobility and how to overcome them!
+Hear from Volvo on the top-notch challenges towards electromobility and how to overcome them!
 
 [***Driverless E-trucks begin deliveries:***](https://www.independent.co.uk/news/world/europe/driverless-lorries-electric-deliveries-public-roads-sweden-)
 Driverless electric lorries begin deliveries in Sweden! Developers estimate vehicle will reduce road freight operating costs by about 60 %.
