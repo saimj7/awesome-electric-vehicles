@@ -1,10 +1,10 @@
 # Awesome Electric Vehicles [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-Curated list of awesome electric vehicles and resources, inspired by [awesome-autonomous-vehicles](https://github.com/manfreddiaz/awesome-autonomous-vehicles).
+#### Curated list of awesome electric vehicles :zap: and resources, inspired by [awesome-autonomous-vehicles](https://github.com/manfreddiaz/awesome-autonomous-vehicles).
 
 
 ## Contributing
 
-> **Please feel free to send me pull requests to add links.**
+> **Please feel free to send me pull requests to add resources: [**Guidelines**](https://github.com/saimj7/awesome-electric-vehicles/blob/master/CONTRIBUTORS.md)**
 
 ## Table of Contents
 * [Courses](#courses)
