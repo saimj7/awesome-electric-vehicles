@@ -11,16 +11,18 @@ Curated list of awesome electric vehicles and resources, inspired by [awesome-au
 * [Blogs and Mags](#blogs-and-mags)
 * [Articles](#articles)
 * [Hardware Technology](#hardware-technology)
+  - [Supercapacitors](#supercapacitors)
+  - [Electric Charging Stations](#electric-charging-stations)
 * [Software Technology](#software-technology)
 * [Software IDE](#software-ide)
 * [Research Papers](#research-papers)
 * [Universites and Research Labs](#universities-and-research-labs)
 * [The Electric Market](#the-electric-market)
   - [Electric Cars](#electric-cars)
+  - [Electric Buses](#electric-buses)
   - [Electric Trucks](#electric-trucks)
-  - [E Bikes](#e-bikes)
-  - [E Scooters](#e-scooters)
-* [Who's leading?](#who's-leading?)
+  - [E Bikes and Scooters](#e-bikes-and-scooters)
+* [Who's Leading?](#who's-leading?)
 
 ---
 
@@ -69,8 +71,35 @@ Hear from the experts themselves, Volvo on your guide to the Hybrid engines!
 [***BMW & Daimler (when legends work together):***](https://www.independent.co.uk/news/world/europe/driverless-lorries-electric-deliveries-public-roads-sweden-)
 They combine mobility services on five joint ventures: REACH NOW for multimodal services, CHARGE NOW for charging, FREE NOW for taxi ride-hailing, PARK NOW for parking and SHARE NOW for car-sharing.
 
+[***Tesla picks up supercap maker:***](https://www.chemistryworld.com/news/power-hungry-tesla-picks-up-supercapacitor-maker-/3010215.article)
+Supercaps have much higher power densities than batteries – they can charge and discharge more rapidly. Electric car maker Tesla recently paid over $200 million for a US supercaps manufacturer Maxwell Technologies. 
+
+## Hardware Technology
+> ***Revolutionary and advancing tech in EV industry you may ask?***
+
+### Supercapacitors
+
+In short, supercaps are high-capacity capacitors. They have higher capacitance and lower voltage limits than other types of capacitors, and functionally, they lie somewhere in between electrolytic capacitors and rechargeable batteries.
+
+[**:hearts: Supercaps Vs. Batteries**](https://www.arrow.com/en/research-and-events/articles/supercapacitor-vs-battery-ultracapacitor-pros-and-cons) &nbsp; [**:hearts: How they work?**](https://hackaday.com/2017/01/19/will-supercapacitors-ever-replace-batteries/) &nbsp; [**:hearts: Regen supercaps**](https://www.nationalgeographic.com/news/energy/2013/08/130821-supercapacitors/) &nbsp; [**:hearts: Lamborghini's powerful supercap**](https://www.greencarreports.com/news/1124923_lamborghini-uses-supercapacitors-in-its-most-powerful-car-ever) &nbsp; [**:hearts: Ultra supercaps**](https://interestingengineering.com/could-ultracapacitors-replace-batteries-in-future-electric-vehicles) 
+
+### Electric Charging Stations
+
+Nothing much to say here, a charging station is a McDonald's for EVs. However, what are the revolutionary advancements?
+
+[**:battery: Legendary 'OppCharge'**](https://www.oppcharge.org/) &nbsp; [**:battery: Heliox**](https://www.greencarcongress.com/2016/11/20161109-heliox.html) &nbsp;
+
 
 ## Research Papers
-> ***An aspiring EV scientist? Welcome:***
+> ***An aspiring EV scientist? Recharge here:***
 
-The rest are coming soon..
+## The Electric Market
+> ***What and Who is electrifying the roads?***
+
+### Electric Buses
+[**Volvo 7900 Electric hybrid**](https://www.volvobuses.co.uk/content/dam/volvo/volvo-buses/markets/uk/our-offering/buses/7900electrichybrid/documents/7900_ELECTRIC%20HYBRID.pdf)
+is silent, smart, energy efficient, eco-friendly, automatically charged (via OppCharge) and sustainable. This beauty is designed to take on the urban challenge.
+
+
+
+The rest are coming soon!
