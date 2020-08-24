@@ -1,5 +1,6 @@
 # Awesome Electric Vehicles [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-#### Curated list of awesome electric vehicles :zap: and resources, inspired by [awesome-autonomous-vehicles](https://github.com/manfreddiaz/awesome-autonomous-vehicles).
+### Curated list of awesome electric vehicles :zap: and resources, inspired by [awesome-autonomous-vehicles](https://github.com/manfreddiaz/awesome-autonomous-vehicles).
+#### ***Welcome.*** Before you start, be a climate activist and win a Tesla Model 3 from [Arnold Schwarzenegger!](https://www.teslarati.com/greta-thunberg-tesla-model-3-arnold-schwarzenegger/amp/)
 
 
 ## Contributing
@@ -14,15 +15,23 @@
   - [Supercapacitors](#supercapacitors)
   - [Electric Charging Stations](#electric-charging-stations)
 * [Software Technology](#software-technology)
+  - [Electric Charging Networks](#electric-charging-networks)
 * [Software IDE](#software-ide)
+  - [Development](#development)
+  - [Open-source](#open-source)
 * [Research Papers](#research-papers)
-* [Universites and Research Labs](#universities-and-research-labs)
+* [Universities and Labs](#universities-and-labs)
+  - [Universities](#universities)
+  - [Research Labs](#research-labs)
 * [The Electric Market](#the-electric-market)
   - [Electric Cars](#electric-cars)
   - [Electric Buses](#electric-buses)
   - [Electric Trucks](#electric-trucks)
-  - [E Bikes and Scooters](#e-bikes-and-scooters)
+  - [Electric Motorcycles, Bikes](#electric-motorcycles-bikes)
 * [Who's Leading?](#who's-leading?)
+  - [Companies](#companies)
+  - [Start-Ups](#start-ups)
+  - [Region Based](#region-based)
 
 ---
 
@@ -85,21 +94,66 @@ In short, supercaps are high-capacity capacitors. They have higher capacitance a
 
 ### Electric Charging Stations
 
-Nothing much to say here, a charging station is a McDonald's for EVs. However, what are the revolutionary advancements?
+Nothing much to say here, a charging station is a McDonald's for EVs. However, what are the revolutionary advancements? I would say the legendary OppCharge/Opportunity Chargine!
 
-[**:battery: Legendary 'OppCharge'**](https://www.oppcharge.org/) &nbsp; [**:battery: Heliox**](https://www.greencarcongress.com/2016/11/20161109-heliox.html) &nbsp;
+[**:battery: OppCharge**](https://www.oppcharge.org/) &nbsp; [**:battery: Heliox Fast Charging**](https://www.greencarcongress.com/2016/11/20161109-heliox.html) &nbsp;
 
+***on the charge:*** coming soon
+
+## Software Technology
+
+### Electric Charging Networks
+
+Let's face it, we can easily find a charging station on Google Maps but with evergrowing services like car sharing, parking, what we require is a serious fully connected infrastructure. Well, Your-Now says they're bringing together five of the world's most innovative urban mobility concepts under just one roof: SHARENOW, FREENOW, REACHNOW, PARKNOW, CHARGENOW. From car-sharing to multimodal trip-planning, check them out!
+
+[**:battery: Your-Now**](https://www.your-now.com/our-solutions) &nbsp;
+
+***on the charge:*** coming soon
+
+## Software IDE
+> ***Let it be dev tools or open-source software, it's perfect voltage down here:***
+
+### Development
+
+### Open-Source
 
 ## Research Papers
 > ***An aspiring EV scientist? Recharge here:***
 
+
+
+## Universites and Labs
+> ***An aspiring EV graduate? Or a PhD looking out for innovating labs?***
+
+### Universities
+
+### Research Labs
+
+
 ## The Electric Market
 > ***What and Who is electrifying the roads?***
 
+### Electric Cars
+[**Sono Motors**](https://sonomotors.com/en/sion/)
+Sion is a spacious electric car with a range of up to 250 kilometers that charges itself through the power of the sun!
+
 ### Electric Buses
-[**Volvo 7900 Electric hybrid**](https://www.volvobuses.co.uk/content/dam/volvo/volvo-buses/markets/uk/our-offering/buses/7900electrichybrid/documents/7900_ELECTRIC%20HYBRID.pdf)
-is silent, smart, energy efficient, eco-friendly, automatically charged (via OppCharge) and sustainable. This beauty is designed to take on the urban challenge.
+[**Volvo Buses**](https://www.volvobuses.co.uk/content/dam/volvo/volvo-buses/markets/uk/our-offering/buses/7900electrichybrid/documents/7900_ELECTRIC%20HYBRID.pdf)
+7900 electric hybrid is silent, smart, energy efficient, eco-friendly, automatically charged (via OppCharge) and sustainable. This beauty is designed to take on the urban challenge.
 
+### Electric Trucks
+[**Volta Trucks**](https://voltatrucks.com/#Electrification)
+Volta Zero is the first fully electric 16 tonne delivery vehicle. The Zero’s advanced electric drivetrain is at the heart of this purpose-built full electric commercial vehicle, designed for inner city freight distribution.
 
+### Electric Motorcycles, Bikes
+[**Harley Davidson's**](https://electrek.co/2019/10/11/livewire-electric-motorcycle-save-harley-davidson/amp/)
+flagship electric motorcycle: The LiveWire; E Scooters and Off-road E bikes!
 
-The rest are coming soon!
+## Who's Leading?
+> ***Who's leading and where?***
+
+### Companies
+
+### Start-Ups
+
+### Region based
