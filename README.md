@@ -71,13 +71,13 @@ Lamborghini and MIT patent a new material for supercapacitors! How electrifying 
 [***Five challanges on the road to E-mobility:***](https://www.volvoce.com/global/en/news-and-events/news-and-stories/2019/five-challenges-on-the-road-to-electromobility/)
 Hear from Volvo on the top-notch challenges towards electromobility and how to overcome them!
 
-[***Driverless E-trucks begin deliveries:***](https://www.independent.co.uk/news/world/europe/driverless-lorries-electric-deliveries-public-roads-sweden-)
+[***Driverless E-trucks begin deliveries:***](https://www.independent.co.uk/news/world/europe/driverless-lorries-electric-deliveries-public-roads-sweden-einride-a8917451.html?amp)
 Driverless electric lorries begin deliveries in Sweden! Developers estimate vehicle will reduce road freight operating costs by about 60 %.
 
 [***What is a Hybrid car?***](https://www.volvocars.com/au/cars/hybrid-engine)
 Hear from the experts themselves, Volvo on your guide to the Hybrid engines!
 
-[***BMW & Daimler (when legends work together):***](https://www.independent.co.uk/news/world/europe/driverless-lorries-electric-deliveries-public-roads-sweden-)
+[***BMW & Daimler (when legends work together):***](https://www.daimler-mobility.com/en/company/news/joint-venture-closing/)
 They combine mobility services on five joint ventures: REACH NOW for multimodal services, CHARGE NOW for charging, FREE NOW for taxi ride-hailing, PARK NOW for parking and SHARE NOW for car-sharing.
 
 [***Tesla picks up supercap maker:***](https://www.chemistryworld.com/news/power-hungry-tesla-picks-up-supercapacitor-maker-/3010215.article)
@@ -104,7 +104,7 @@ Nothing much to say here, a charging station is a McDonald's for EVs. However, w
 
 ### Electric Charging Networks
 
-Let's face it, we can easily find a charging station on Google Maps but with evergrowing services like car sharing, parking, what we require is a serious fully connected infrastructure. Well, Your-Now says they're bringing together five of the world's most innovative urban mobility concepts under just one roof: SHARENOW, FREENOW, REACHNOW, PARKNOW, CHARGENOW. From car-sharing to multimodal trip-planning, check them out!
+Let's face it, we can easily find a charging station on Google Maps but with evergrowing services like car sharing, parking, what we require is a serious fully connected infrastructure. Well, BMW and Daimler's Your-Now says they're bringing together five of the world's most innovative urban mobility concepts under just one roof:
 
 [**:battery: Your-Now**](https://www.your-now.com/our-solutions) &nbsp;
 
@@ -128,7 +128,8 @@ Let's face it, we can easily find a charging station on Google Maps but with eve
 ### Universities
 
 ### Research Labs
-
+[**MobilityXlab**](http://www.mobilityxlab.com/en)
+is a collaboration hub founded in 2017 by six global companies to create and develop new innovations within future mobility – with each other and with startups. Partners are CEVT, Ericsson, Veoneer, Volvo Cars, Volvo Group & Zenuity. 
 
 ## The Electric Market
 > ***What and Who is electrifying the roads?***
