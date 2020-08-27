@@ -135,6 +135,9 @@ is a collaboration hub founded in 2017 by six global companies to create and dev
 > ***What and Who is electrifying the roads?***
 
 ### Electric Cars
+[**Honda**](https://auto.hindustantimes.com/auto/cars/honda-goes-small-with-first-all-electric-car-honda-e/amp-41598496309465.html) 
+goes small with an all electric Honda E: "We question whether larger vehicles are appropriate for urban areas, and believe that smaller is a better option for cities."
+
 [**Sono Motors**](https://sonomotors.com/en/sion/)
 Sion is a spacious electric car with a range of up to 250 kilometers that charges itself through the power of the sun!
 
