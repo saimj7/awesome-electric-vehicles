@@ -68,6 +68,9 @@ is a very interactive, free and downloadable EV magazine.
 [***Supercaps patent:***](https://chargedevs.com/newswire/lamborghini-and-mit-patent-a-new-material-for-supercapacitors/?utm_source=quora&utm_medium=referral)
 Lamborghini and MIT patent a new material for supercapacitors! How electrifying is that?
 
+[***Truck on rails:***](https://www.scania.com/group/en/home/newsroom/news/2020/first-german-e-road-trial-now-fully-operational.html)
+Ever seen a truck with a pantograph? Since early July, the first German electric road test track near Frankfurt with catenary overhead lines is fully operational with five Scania R 450 hybrid trucks equipped with pantographs.
+
 [***Five challanges on the road to E-mobility:***](https://www.volvoce.com/global/en/news-and-events/news-and-stories/2019/five-challenges-on-the-road-to-electromobility/)
 Hear from Volvo on the top-notch challenges towards electromobility and how to overcome them!
 
@@ -149,6 +152,9 @@ Sion is a spacious electric car with a range of up to 250 kilometers that charge
 7900 electric hybrid is silent, smart, energy efficient, eco-friendly, automatically charged (via OppCharge) and sustainable. This beauty is designed to take on the urban challenge.
 
 ### Electric Trucks
+[**Scania**](https://www.scania.com/uk/en/home/experience-scania/news-and-events/news/2019/05/scania-r-450-is-green-truck-2019.html#:~:text=Scania%20R%20450%20has%20won%20the%20Green%20Truck%20Award%202019&text=The%20Scania%20R%20450%20won,353%2Dkilometre%20long%20test%20track.)
+won a Green Truck award 2019 with their R 450: It’s an honour for Scania to receive this award especially as it is our third consecutive victory. The award reinforces what our customers around the world have already experienced, that the Scania R 450 is an exceptionally fuel-efficient truck" - Head of Scania Trucks.
+
 [**Volta Trucks**](https://voltatrucks.com/#Electrification)
 Volta Zero is the first fully electric 16 tonne delivery vehicle. The Zero’s advanced electric drivetrain is at the heart of this purpose-built full electric commercial vehicle, designed for inner city freight distribution.
 
