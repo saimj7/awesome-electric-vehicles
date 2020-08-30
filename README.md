@@ -62,14 +62,20 @@ is a California-based multi-platform media company with a focus on EV coverage, 
 [**ChargedEVs**](https://chargedevs.com/magazine/)
 is a very interactive, free and downloadable EV magazine. 
 
+[**CleanTechnica**](https://cleantechnica.com/category/clean-transport-2/electric-vehicles/)
+is the world’s #1 source for cleantech news and analysis.
+
 ## Articles
 > ***Simply just awesome and handpicked interesting articles:***
 
 [***Supercaps patent:***](https://chargedevs.com/newswire/lamborghini-and-mit-patent-a-new-material-for-supercapacitors/?utm_source=quora&utm_medium=referral)
 Lamborghini and MIT patent a new material for supercapacitors! How electrifying is that?
 
-[***Truck on rails:***](https://www.scania.com/group/en/home/newsroom/news/2020/first-german-e-road-trial-now-fully-operational.html)
-Ever seen a truck with a pantograph? Since early July, the first German electric road test track near Frankfurt with catenary overhead lines is fully operational with five Scania R 450 hybrid trucks equipped with pantographs.
+[***Tesla's cheap EV strategy!***](https://www.scania.com/group/en/home/newsroom/news/2020/first-german-e-road-trial-now-fully-operational.html)
+One of the brains behind Tesla found a new way to make electric cars cheaper, right from scrap! Envisions a process so efficient that batteries coming from the mountain of electric cars being retired in coming years could be quickly stripped down, recycled for their core materials, and used to rebuild new power cells, creating a closed loop where hardly any materials are lost.
+
+[***Five challanges on the road to E-mobility:***](https://www.volvoce.com/global/en/news-and-events/news-and-stories/2019/five-challenges-on-the-road-to-electromobility/)
+Hear from Volvo on the top-notch challenges towards electromobility and how to overcome them!
 
 [***Five challanges on the road to E-mobility:***](https://www.volvoce.com/global/en/news-and-events/news-and-stories/2019/five-challenges-on-the-road-to-electromobility/)
 Hear from Volvo on the top-notch challenges towards electromobility and how to overcome them!
