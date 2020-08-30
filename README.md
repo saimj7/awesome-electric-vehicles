@@ -71,7 +71,10 @@ is the world’s #1 source for cleantech news and analysis.
 [***Supercaps patent:***](https://chargedevs.com/newswire/lamborghini-and-mit-patent-a-new-material-for-supercapacitors/?utm_source=quora&utm_medium=referral)
 Lamborghini and MIT patent a new material for supercapacitors! How electrifying is that?
 
-[***Tesla's cheap EV strategy!***](https://www.scania.com/group/en/home/newsroom/news/2020/first-german-e-road-trial-now-fully-operational.html)
+[***Truck on rails:***](https://www.scania.com/group/en/home/newsroom/news/2020/first-german-e-road-trial-now-fully-operational.html)
+Ever seen a truck with a pantograph? Since early July, the first German electric road test track near Frankfurt with catenary overhead lines is fully operational with five Scania R 450 hybrid trucks equipped with pantographs.
+
+[***Tesla's cheap EV strategy!***](https://www.livemint.com/news/world/one-of-the-brains-behind-tesla-found-a-new-way-to-make-electric-cars-cheaper/amp-11598682376919.html)
 One of the brains behind Tesla found a new way to make electric cars cheaper, right from scrap! Envisions a process so efficient that batteries coming from the mountain of electric cars being retired in coming years could be quickly stripped down, recycled for their core materials, and used to rebuild new power cells, creating a closed loop where hardly any materials are lost.
 
 [***Five challanges on the road to E-mobility:***](https://www.volvoce.com/global/en/news-and-events/news-and-stories/2019/five-challenges-on-the-road-to-electromobility/)
