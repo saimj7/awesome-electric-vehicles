@@ -150,6 +150,12 @@ is an incubator and accelerator that starts, develops and finances research and 
 > ***What and Who is electrifying the roads?***
 
 ### Electric Cars
+[**Porsche**](https://www.porsche.com/international/models/taycan/taycan-models/)
+Taycan is ready for the future, thanks to its innovative total concept. It is characterised by the features that have always been decisive for any Porsche: pure emotion and maximum driving pleasure! Taycan comes in 3 variants: 4S, Turbo, Turbo S.
+
+[**Mercedes-Benz's**](https://www.mercedes-benz.com/en/vehicles/passenger-cars/eqc/the-new-eqc/)
+all-new EQC 400 4MATIC, provides impressive range, fast charging, and the thrilling feeling that only driving a Mercedes-Benz brings!
+
 [**Honda**](https://auto.hindustantimes.com/auto/cars/honda-goes-small-with-first-all-electric-car-honda-e/amp-41598496309465.html) 
 goes small with an all electric Honda E: "We question whether larger vehicles are appropriate for urban areas, and believe that smaller is a better option for cities."
 
