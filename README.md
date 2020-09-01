@@ -162,6 +162,9 @@ all-new EQC 400 4MATIC, provides impressive range, fast charging, and the thrill
 [**Honda**](https://auto.hindustantimes.com/auto/cars/honda-goes-small-with-first-all-electric-car-honda-e/amp-41598496309465.html) 
 goes small with an all electric Honda E: "We question whether larger vehicles are appropriate for urban areas, and believe that smaller is a better option for cities."
 
+[**Tata Motors**](https://www.onmanorama.com/business/autos/2020/08/28/now-take-a-nexon-ev-on-rent-no-need-to-buy-pay-insurance-or-taxe.amp.html) 
+has launched a first-of-its-kind plan aimed at promoting use of electric vehicles. It has unveiled a monthly subscription model for electric version of its compact SUV Nexon.
+
 [**Sono Motors**](https://sonomotors.com/en/sion/)
 Sion is a spacious electric car with a range of up to 250 kilometers that charges itself through the power of the sun!
 
@@ -188,3 +191,9 @@ flagship electric motorcycle: The LiveWire; E Scooters and Off-road E bikes!
 ### Start-Ups
 
 ### Region based
+
+| Origin  |  Leaders  |
+|:------|:-------------|
+| **Sweden** | [Volvo Cars](https://www.volvocars.com/):tm: &nbsp; [Zenuity](https://www.zenuity.com/):tm: |
+| **India** | [Tata Motors](https://www.tatamotors.com/):tm: |
+
