@@ -141,14 +141,14 @@ Let's face it, we can easily find a charging station on Google Maps but with eve
 > ***An aspiring EV graduate? Or a PhD looking out for innovation labs?***
 
 ### Universities
-[**Chalmers University of Technology**](http://www.mobilityxlab.com/en)
+[**Chalmers University of Technology**](http://www.chalmers.se/en/education/programmes/masters-info/pages/automotive-engineering.aspx)
 is undoubtedly one of the leading universities in automotive research. The Master's programme in Automotive Engineering offers the students with in-depth knowledge on powertrains, vehicle dynamics, adas and safety.
 
-[**:mortar_board:Research**](https://research.chalmers.se/en/Location) &nbsp; :mortar_board:Industry tie-ups: **Volvo** &nbsp; :mortar_board:Location: **Sweden** &nbsp;
+[**:mortar_board:Research**](https://research.chalmers.se) &nbsp; :mortar_board:Industry tie-ups: **Volvo** &nbsp; :mortar_board:Location: **Sweden** &nbsp;
 
 ### Innovation Labs
 [**MobilityXlab**](http://www.mobilityxlab.com/en)
-is a collaboration hub founded in 2017 by six global companies to create and develop new innovations within future mobility – with each other and with startups. Partners are CEVT, Ericsson, Veoneer, Volvo Cars, Volvo Group & Zenuity. 
+is a collaboration lab founded in 2017 by six global companies to create and develop new innovations within future mobility – with each other and with startups. Partners are CEVT, Ericsson, Veoneer, Volvo Cars, Volvo Group & Zenuity. 
 
 [**Chalmers Ventures**](https://www.chalmersventures.com/)
 is an incubator and accelerator that starts, develops and finances research and knowledge-based start-ups/companies. Got an idea? You might want to take a look, Sustainability is at the core of Chalmers.
