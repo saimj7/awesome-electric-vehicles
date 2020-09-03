@@ -138,9 +138,13 @@ Let's face it, we can easily find a charging station on Google Maps but with eve
 
 
 ## Universites and Labs
-> ***An aspiring EV graduate? Or a PhD looking out for innovating labs?***
+> ***An aspiring EV graduate? Or a PhD looking out for innovation labs?***
 
 ### Universities
+[**Chalmers University of Technology**](http://www.mobilityxlab.com/en)
+is undoubtedly one of the leading universities in automotive research. The Master's programme in Automotive Engineering offers the students with in-depth knowledge on powertrains, vehicle dynamics, adas and safety.
+
+[**:mortar_board:Research**](https://research.chalmers.se/en/Location) &nbsp; :mortar_board:Industry tie-ups: **Volvo** &nbsp; :mortar_board:Location: **Sweden** &nbsp;
 
 ### Innovation Labs
 [**MobilityXlab**](http://www.mobilityxlab.com/en)
