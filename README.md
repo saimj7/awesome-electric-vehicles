@@ -65,6 +65,9 @@ is a very interactive, free and downloadable EV magazine.
 [**CleanTechnica**](https://cleantechnica.com/category/clean-transport-2/electric-vehicles/)
 is the world’s #1 source for cleantech news and analysis.
 
+[**Green Car Reports**](https://www.greencarreports.com)
+will help you decipher the rapidly changing world of 'green' cars: hybrids, plug-in hybrids, electric vehicles, and everything in between!
+
 [**Recharge News**](https://www.rechargenews.com/)
 for latest renewable energy news.
 
