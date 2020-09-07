@@ -27,7 +27,7 @@
   - [Electric Cars](#electric-cars)
   - [Electric Buses](#electric-buses)
   - [Electric Trucks](#electric-trucks)
-  - [Electric Motorcycles, Bikes](#electric-motorcycles-bikes)
+  - [Motorcycles, Bikes](#motorcycles-bikes)
 * [Who's Leading?](#who's-leading?)
   - [Companies](#companies)
   - [Start-Ups](#start-ups)
@@ -112,7 +112,7 @@ In short, supercaps are high-capacity capacitors. They have higher capacitance a
 
 ### Electric Charging Stations
 
-Nothing much to say here, a charging station is a McDonald's for EVs. However, what are the revolutionary advancements? I would say the legendary OppCharge/Opportunity Chargine!
+Nothing much to say here, a charging station is a McDonald's for EVs. However, what are the revolutionary advancements? I would say the legendary OppCharge/Opportunity Charging!
 
 [**:battery: OppCharge**](https://www.oppcharge.org/) &nbsp; [**:battery: Heliox Fast Charging**](https://www.greencarcongress.com/2016/11/20161109-heliox.html) &nbsp;
 
@@ -132,6 +132,10 @@ Let's face it, we can easily find a charging station on Google Maps but with eve
 > ***Let it be dev tools or open-source software, it's perfect voltage down here:***
 
 ### Development
+[**MATLAB & Simulink**](https://www.mathworks.com/products/simulink.html)
+is probably the best practical environemnt for beginners. It supports graphical programming for modeling, simulating and analyzing multidomain dynamical systems including several libraries and toolboxes. One such toolbox for simulating electrical and hybrid powertrains is the QSS toolbox.
+
+[**<> QSS Toolbox**](https://www.mathworks.com/matlabcentral/fileexchange/73483-qss-toolbox)
 
 ### Open-Source
 
@@ -189,7 +193,7 @@ won a Green Truck award 2019 with their R 450: It’s an honour for Scania to re
 [**Volta Trucks**](https://voltatrucks.com/#Electrification)
 Volta Zero is the first fully electric 16 tonne delivery vehicle. The Zero’s advanced electric drivetrain is at the heart of this purpose-built full electric commercial vehicle, designed for inner city freight distribution.
 
-### Electric Motorcycles, Bikes
+### Motorcycles, Bikes
 [**Harley Davidson's**](https://electrek.co/2019/10/11/livewire-electric-motorcycle-save-harley-davidson/amp/)
 flagship electric motorcycle: The LiveWire; E Scooters and Off-road E bikes!
 
