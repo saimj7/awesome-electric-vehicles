@@ -19,7 +19,9 @@
 * [Software IDE](#software-ide)
   - [Development](#development)
   - [Open-source](#open-source)
-* [Research Papers](#research-papers)
+* [Books and Papers](#books-and-papers)
+  - [Books](#books)
+  - [Research Papers](#research-papers)
 * [Universities and Labs](#universities-and-labs)
   - [Universities](#universities)
   - [Innovation Labs](#innovation-labs)
@@ -141,9 +143,22 @@ is probably the best practical environemnt for beginners. It supports graphical 
 **<***GitHub***>**[**Sustainable-Mobility**](https://github.com/saimj7/Sustainable-Mobility)
 is focussed on sizing and analyzing the ICU, Electric-Hybrid powertrains; understanding fuel consumption and energy efficiency.
 
-## Research Papers
+## Books and Papers
 > ***An aspiring EV scientist? Recharge here:***
 
+### Books
+#### Electric and Hybrid Vehicles
+
+[**Electric and Hybrid Vehicles: Design Fundamentals, 2E**](https://books.google.com/books?hl=en&lr=&id=7AAWH_63HuAC&oi=fnd&pg=PP1&dq=hybrid+vehicles&ots=G-tgrDroZD&sig=xwWU2UA1kgoAEN-a19n0eIQcLa0&redir_esc=y#v=onepage&q=hybrid%20vehicles&f=false)
+is a widely praised bestselling textbook, maintains the comprehensive, systems-level perspective of electric and hybrid vehicles while covering the hybrid architectures and components of the vehicle in much greater detail. 
+
+- Cited by: **950** &nbsp; Year: **2011**
+
+### Research Papers
+
+| **[Category] & Summary**  |  **Source**  |  **Cited**  |  **Year**  |
+|:------|:-------------|:----------------|:-------------|
+| [[Electric and Hybrid Vehicles] The state of the art of electric and hybrid vehicles](https://ieeexplore.ieee.org/abstract/document/989873) provides an overview of the electric and hybrid vehicles worldwide and their state of the art, with emphasis on the engineering philosophy and key technologies.| IEEE | 1295 | 2002
 
 
 ## Universites and Labs
