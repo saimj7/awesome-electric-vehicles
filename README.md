@@ -5,7 +5,7 @@
 
 ## Contributing
 
-> **Please feel free to send me pull requests to add resources: [**Guidelines**](https://github.com/saimj7/awesome-electric-vehicles/blob/master/CONTRIBUTORS.md) - [**License**](https://github.com/saimj7/awesome-electric-vehicles/blob/master/LICENSE.md)** 
+> **Please feel free to send me pull requests to add resources: [**Guidelines**](https://github.com/saimj7/awesome-electric-vehicles/blob/master/CONTRIBUTORS.md) - [**License**](https://github.com/saimj7/awesome-electric-vehicles/blob/master/LICENSE)** 
 
 ## Table of Contents
 * [Courses](#courses)
