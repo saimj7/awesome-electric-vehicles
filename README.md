@@ -152,7 +152,7 @@ is focussed on sizing and analyzing the ICU, Electric-Hybrid powertrains; unders
 [**Electric and Hybrid Vehicles: Design Fundamentals, 2E**](https://books.google.com/books?hl=en&lr=&id=7AAWH_63HuAC&oi=fnd&pg=PP1&dq=hybrid+vehicles&ots=G-tgrDroZD&sig=xwWU2UA1kgoAEN-a19n0eIQcLa0&redir_esc=y#v=onepage&q=hybrid%20vehicles&f=false)
 is a widely praised bestselling textbook, maintains the comprehensive, systems-level perspective of electric and hybrid vehicles while covering the hybrid architectures and components of the vehicle in much greater detail. 
 
-- Cited by: **950** &nbsp; Year: **2011**
+- Source: **Google Books** &nbsp; Cited by: **950** &nbsp; Year: **2011**
 
 ### Research Papers
 
