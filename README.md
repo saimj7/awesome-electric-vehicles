@@ -181,6 +181,11 @@ is an incubator and accelerator that starts, develops and finances research and 
 > ***What and Who is electrifying the roads?***
 
 ### Electric Cars
+[**Tesla**](https://www.tesla.com/model3)
+Model 3 is an all electric fastback designed for electric-powered performance, with dual motor AWD, quick acceleration, safety, long range and fast charging. It is the best-selling Tesla model by revenue!
+
+- **other Tesla models**: [**Model S**](https://www.tesla.com/models) - [**Model X**](https://www.tesla.com/modelx) - [**Model Y**](https://www.tesla.com/modely)
+
 [**Porsche**](https://www.porsche.com/international/models/taycan/taycan-models/)
 Taycan is ready for the future, thanks to its innovative total concept. It is characterised by the features that have always been decisive for any Porsche: pure emotion and maximum driving pleasure! Taycan comes in 3 variants: 4S, Turbo, Turbo S.
 
