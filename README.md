@@ -31,8 +31,8 @@
   - [Electric Trucks](#electric-trucks)
   - [Motorcycles, Bikes](#motorcycles-bikes)
 * [Who's Leading?](#who's-leading?)
-  - [Companies](#companies)
-  - [Start-Ups](#start-ups)
+  - [Companies](#companies-and-start-ups)
+  - [Start-Ups](#companies-and-start-ups)
   - [Region Based](#region-based)
 
 ---
@@ -108,9 +108,11 @@ Supercaps have much higher power densities than batteries – they can charge an
 
 ### Supercapacitors
 
-In short, supercaps are high-capacity capacitors. They have higher capacitance and lower voltage limits than other types of capacitors, and functionally, they lie somewhere in between electrolytic capacitors and rechargeable batteries.
+In short, supercaps are high-capacity capacitors. They have higher capacitance and lower voltage limits than other types of capacitors, and functionally, they lie somewhere in between electrolytic capacitors and rechargeable batteries. A recent study (02 June 2020) shows **Lightweight green** supercaps are flexible, cost effective and could even charge EVs witin minutes in the near future!
 
-[**:hearts: Supercaps Vs. Batteries**](https://www.arrow.com/en/research-and-events/articles/supercapacitor-vs-battery-ultracapacitor-pros-and-cons) &nbsp; [**:hearts: How they work?**](https://hackaday.com/2017/01/19/will-supercapacitors-ever-replace-batteries/) &nbsp; [**:hearts: Regen supercaps**](https://www.nationalgeographic.com/news/energy/2013/08/130821-supercapacitors/) &nbsp; [**:hearts: Lamborghini's powerful supercap**](https://www.greencarreports.com/news/1124923_lamborghini-uses-supercapacitors-in-its-most-powerful-car-ever) &nbsp; [**:hearts: Ultra supercaps**](https://interestingengineering.com/could-ultracapacitors-replace-batteries-in-future-electric-vehicles) 
+[**:hearts: Supercaps Vs. Batteries**](https://www.arrow.com/en/research-and-events/articles/supercapacitor-vs-battery-ultracapacitor-pros-and-cons) &nbsp; [**:hearts: How they work?**](https://hackaday.com/2017/01/19/will-supercapacitors-ever-replace-batteries/) &nbsp; [**:hearts: Regen supercaps**](https://www.nationalgeographic.com/news/energy/2013/08/130821-supercapacitors/) &nbsp; [**:hearts: Lamborghini's powerful supercap**](https://www.greencarreports.com/news/1124923_lamborghini-uses-supercapacitors-in-its-most-powerful-car-ever) &nbsp; [**:hearts: Ultra supercaps**](https://interestingengineering.com/could-ultracapacitors-replace-batteries-in-future-electric-vehicles) &nbsp; 
+[**:hearts: Lightweight green supercaps**](https://techxplore.com/news/2020-09-lightweight-green-supercapacitors-quickly-devices.amp) &nbsp; 
+
 
 ### Electric Charging Stations
 
@@ -159,6 +161,7 @@ is a widely praised bestselling textbook, maintains the comprehensive, systems-l
 | **[Category] & Summary**  |  **Source**  |  **Cited**  |  **Year**  |
 |:------|:-------------|:----------------|:-------------|
 | [[Electric and Hybrid Vehicles] The state of the art of electric and hybrid vehicles](https://ieeexplore.ieee.org/abstract/document/989873) provides an overview of the electric and hybrid vehicles worldwide and their state of the art, with emphasis on the engineering philosophy and key technologies.| IEEE | 1295 | 2002
+| [[Supercapacitors] Design and synthesis of high performance flexible and green supercapacitors made of manganese‐dioxide‐decorated alkali lignin](https://onlinelibrary.wiley.com/doi/full/10.1002/est2.184) - A new class of biomass‐derived supercapacitor was successfully fabricated using a facile and low‐cost synthesis. The supercapacitor is lightweight, portable, and flexible.| Wiley | 137 | 2020
 
 
 ## Universites and Labs
@@ -222,9 +225,13 @@ flagship electric motorcycle: The LiveWire; E Scooters and Off-road E bikes!
 ## Who's Leading?
 > ***Who's leading and where?***
 
-### Companies
+### Companies and Start-Ups
 
-### Start-Ups
+| Companies  |  Start-Ups  |
+|:------|:-------------|
+| **xx** | [xx](https://www.volvocars.com/):tm: &nbsp; [xx](https://www.zenuity.com/):tm: |
+| **xx** | [xx](https://www.tatamotors.com/):tm: |
+
 
 ### Region based
 
