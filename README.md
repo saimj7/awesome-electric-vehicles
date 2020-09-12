@@ -198,6 +198,9 @@ all-new EQC 400 4MATIC, provides impressive range, fast charging, and the thrill
 [**Volkswagen**](https://www.businessinsider.in/thelife/news/volkswagen-just-unveiled-the-airy-minimalist-interior-for-its-first-american-ev-x2014-check-out-the-upcoming-id-4/slidelist/77948961.cms#slideid=77949098)
 already has an all-electric car out in the form of ID.3 hatchback. Today, we will be taking an interior look at the yet-to-be-unveiled ID.4 fully electric SUV.
 
+[**Maserati**](https://gaadiwaadi.com/maserati-grecale-suv-teased-will-be-more-compact-than-levante/amp/)
+Grecale will be introduced in 2022 and just as the MC20 sportscar (convertible, electric and V6 based on Ferrari’s F1 technology), it will be offered with eco-friendly and regular IC engine.
+
 [**Honda**](https://auto.hindustantimes.com/auto/cars/honda-goes-small-with-first-all-electric-car-honda-e/amp-41598496309465.html) 
 goes small with an all electric Honda E: "We question whether larger vehicles are appropriate for urban areas, and believe that smaller is a better option for cities."
 
