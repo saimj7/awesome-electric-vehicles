@@ -103,6 +103,9 @@ They combine mobility services on five joint ventures: REACH NOW for multimodal 
 [***Tesla picks up supercap maker:***](https://www.chemistryworld.com/news/power-hungry-tesla-picks-up-supercapacitor-maker-/3010215.article)
 Supercaps have much higher power densities than batteries – they can charge and discharge more rapidly. Electric car maker Tesla recently paid over $200 million for a US supercaps manufacturer Maxwell Technologies. 
 
+[***Charging ahead: Electric-vehicle infrastructure demand***](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/charging-ahead-electric-vehicle-infrastructure-demand)
+Access to efficient charging could become a roadblock to electric-vehicle uptake. This article by McKinsey looks at the numbers and costs behind the problem. 
+
 ## Hardware Technology
 > ***Revolutionary and advancing tech in EV industry you may ask?***
 
@@ -155,6 +158,13 @@ is focussed on sizing and analyzing the ICU, Electric-Hybrid powertrains; unders
 is a widely praised bestselling textbook, maintains the comprehensive, systems-level perspective of electric and hybrid vehicles while covering the hybrid architectures and components of the vehicle in much greater detail. 
 
 - Source: **Google Books** &nbsp; Cited by: **950** &nbsp; Year: **2011**
+
+#### Electric Charging Stations
+
+[**An Overview on Electric Vehicle Charging Infrastructure**](https://www.tataelxsi.com/Perspectives/WhitePapers/TataElxsi_Whitepaper_An_Overview_on_Electric_Vehicle_Charging_Infrastructure.pdf)
+provides an overview on the charging infrastructure equipment; global policies; emerging business models: wireless/induction charging, battery swapping, vehicle to grid energy transfer. 
+
+- Source: **TataElxsi** &nbsp; Cited by: **-** &nbsp; Year: **2019**
 
 ### Research Papers
 
