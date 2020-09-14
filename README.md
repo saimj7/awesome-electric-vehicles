@@ -240,6 +240,8 @@ flagship electric motorcycle: The LiveWire; E Scooters and Off-road E bikes!
 
 ### Companies and Start-Ups
 
+_coming soon_
+
 | Companies  |  Start-Ups  |
 |:------|:-------------|
 | **xx** | [xx](https://www.volvocars.com/):tm: &nbsp; [xx](https://www.zenuity.com/):tm: |
@@ -253,3 +255,9 @@ flagship electric motorcycle: The LiveWire; E Scooters and Off-road E bikes!
 | **Sweden** | [Volvo Cars](https://www.volvocars.com/):tm: &nbsp; [Zenuity](https://www.zenuity.com/):tm: |
 | **India** | [Tata Motors](https://www.tatamotors.com/):tm: |
 
+---
+
+
+_Hopefully, this will evolve into an infinite library of knowledge about EVs and Sustainability, overtime._
+
+_saimj7/ 2020 © <a href="http://saimj7.github.io" target="_blank">Sai_Mj</a>._
