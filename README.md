@@ -25,6 +25,7 @@
 * [Universities and Labs](#universities-and-labs)
   - [Universities](#universities)
   - [Innovation Labs](#innovation-labs)
+* [Sustainability](#sustainability)
 * [The Electric Market](#the-electric-market)
   - [Electric Cars](#electric-cars)
   - [Electric Buses](#electric-buses)
@@ -191,6 +192,12 @@ is a collaboration lab founded in 2017 by six global companies to create and dev
 
 [**Chalmers Ventures**](https://www.chalmersventures.com/)
 is an incubator and accelerator that starts, develops and finances research and knowledge-based start-ups/companies. Got an idea? You might want to take a look, Sustainability is at the core of Chalmers.
+
+## Sustainability
+> ***High voltage topic: Electric vehicles Vs. climate change***
+
+[***Plug-in hybrids are a 'wolf in sheep's clothing':***](https://www.bbc.com/news/amp/science-environment-54170207)
+Carbon dioxide emissions from plug-in hybrid cars are as much as two-and-a-half times higher than official tests suggest, according to new research!
 
 ## The Electric Market
 > ***What and Who is electrifying the roads?***
