@@ -115,6 +115,8 @@ In short, supercaps are high-capacity capacitors. They have higher capacitance a
 
 [**:hearts: Supercaps Vs. Batteries**](https://www.arrow.com/en/research-and-events/articles/supercapacitor-vs-battery-ultracapacitor-pros-and-cons) &nbsp; [**:hearts: How they work?**](https://hackaday.com/2017/01/19/will-supercapacitors-ever-replace-batteries/) &nbsp; [**:hearts: Regen supercaps**](https://www.nationalgeographic.com/news/energy/2013/08/130821-supercapacitors/) &nbsp; [**:hearts: Lamborghini's powerful supercap**](https://www.greencarreports.com/news/1124923_lamborghini-uses-supercapacitors-in-its-most-powerful-car-ever) &nbsp; [**:hearts: Ultra supercaps**](https://interestingengineering.com/could-ultracapacitors-replace-batteries-in-future-electric-vehicles) &nbsp; 
 [**:hearts: Lightweight green supercaps**](https://techxplore.com/news/2020-09-lightweight-green-supercapacitors-quickly-devices.amp) &nbsp; 
+[**:hearts: Rapid charging supercaps**](https://hackaday.com/2020/09/16/rapid-charging-supercapacitors/) &nbsp; 
+[**:hearts: Hybrid sc (with Li batteries)**](https://hackaday.com/2020/03/14/hybrid-supercapacitors-are-well-super/) &nbsp; 
 
 
 ### Electric Charging Stations
