@@ -25,7 +25,7 @@
 * [Universities and Labs](#universities-and-labs)
   - [Universities](#universities)
   - [Innovation Labs](#innovation-labs)
-* [Sustainability](#sustainability)
+* [Sustainability and Climate Change](#sustainability-and-climate-change)
 * [The Electric Market](#the-electric-market)
   - [Electric Cars](#electric-cars)
   - [Electric Buses](#electric-buses)
@@ -193,11 +193,15 @@ is a collaboration lab founded in 2017 by six global companies to create and dev
 [**Chalmers Ventures**](https://www.chalmersventures.com/)
 is an incubator and accelerator that starts, develops and finances research and knowledge-based start-ups/companies. Got an idea? You might want to take a look, Sustainability is at the core of Chalmers.
 
-## Sustainability
-> ***High voltage topic: Electric vehicles Vs. climate change***
+## Sustainability and Climate Change
+> ***High voltage topics: Electric vehicles Vs. Climate change; are EVs really good at emitting less CO2?***
 
 [***Plug-in hybrids are a 'wolf in sheep's clothing':***](https://www.bbc.com/news/amp/science-environment-54170207)
-Carbon dioxide emissions from plug-in hybrid cars are as much as two-and-a-half times higher than official tests suggest, according to new research!
+Carbon dioxide emissions from plug-in hybrid cars are as much as **two-and-a-half times higher** than official tests suggest, according to new research!
+
+[***How green are electric cars?***](https://www.autoexpress.co.uk/news/353201/how-green-are-electric-cars-polestar-data-shows-ice-trailing-ev?amp)
+How electric cars are made is also crucial to their environmental impact. Polestar (EV maker) highlights that the production of battery packs is responsible for **“a relatively large carbon footprint”**.
+
 
 ## The Electric Market
 > ***What and Who is electrifying the roads?***
@@ -245,16 +249,17 @@ Volta Zero is the first fully electric 16 tonne delivery vehicle. The Zero’s a
 flagship electric motorcycle: The LiveWire; E Scooters and Off-road E bikes!
 
 ## Who's Leading?
-> ***Who's leading and where?***
+> ***Who's leading and where? Employment opportunities?***
 
 ### Companies and Start-Ups
 
 _coming soon_
 
-| Companies  |  Start-Ups  |
+| [Category] Companies  |  Start-Ups  |
 |:------|:-------------|
-| **xx** | [xx](https://www.volvocars.com/):tm: &nbsp; [xx](https://www.zenuity.com/):tm: |
-| **xx** | [xx](https://www.tatamotors.com/):tm: |
+| [**[EV maker]** Volvo Cars](https://www.volvocars.com/)&nbsp; [Polestar](https://www.polestar.com/)&nbsp; [Tata Motors](https://www.tatamotors.com/)|  |
+| [**[EV/ADAS software]** Zenuity](https://www.zenuity.com/)|  |
+
 
 
 ### Region based
