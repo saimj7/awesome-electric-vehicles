@@ -32,6 +32,7 @@
   - [Electric Trucks](#electric-trucks)
   - [Motorcycles, Bikes](#motorcycles-bikes)
 * [Who's Leading?](#who's-leading?)
+  - [Employment?](#companies-and-start-ups)
   - [Companies](#companies-and-start-ups)
   - [Start-Ups](#companies-and-start-ups)
   - [Region Based](#region-based)
@@ -237,6 +238,9 @@ Sion is a spacious electric car with a range of up to 250 kilometers that charge
 [**Volvo Buses**](https://www.volvobuses.co.uk/content/dam/volvo/volvo-buses/markets/uk/our-offering/buses/7900electrichybrid/documents/7900_ELECTRIC%20HYBRID.pdf)
 7900 electric hybrid is silent, smart, energy efficient, eco-friendly, automatically charged (via OppCharge) and sustainable. This beauty is designed to take on the urban challenge.
 
+[**Mercedes-Benz**](https://www.mercedes-benz-bus.com/en_DE/models/ecitaro.html)
+eCitaro displays compelling design, technology and practicability. It is engineered to output high energy density for longer ranges (441 kWh/190 km) and long service life with its futuristic **Solid-state batteries**.
+
 ### Electric Trucks
 [**Scania**](https://www.scania.com/uk/en/home/experience-scania/news-and-events/news/2019/05/scania-r-450-is-green-truck-2019.html#:~:text=Scania%20R%20450%20has%20won%20the%20Green%20Truck%20Award%202019&text=The%20Scania%20R%20450%20won,353%2Dkilometre%20long%20test%20track.)
 won a Green Truck award 2019 with their R 450: It’s an honour for Scania to receive this award especially as it is our third consecutive victory. The award reinforces what our customers around the world have already experienced, that the Scania R 450 is an exceptionally fuel-efficient truck" - Head of Scania Trucks.
@@ -249,7 +253,7 @@ Volta Zero is the first fully electric 16 tonne delivery vehicle. The Zero’s a
 flagship electric motorcycle: The LiveWire; E Scooters and Off-road E bikes!
 
 ## Who's Leading?
-> ***Who's leading and where? Employment opportunities?***
+> ***Who's leading and where? Employment/job opportunities?***
 
 ### Companies and Start-Ups
 
@@ -257,7 +261,7 @@ _coming soon_
 
 | [Category] Companies  |  Start-Ups  |
 |:------|:-------------|
-| [**[EV maker]** Volvo Cars](https://www.volvocars.com/)&nbsp; [Polestar](https://www.polestar.com/)&nbsp; [Tata Motors](https://www.tatamotors.com/)|  |
+| [**[EV maker]** Volvo Cars](https://www.volvocars.com/)&nbsp; [Polestar](https://www.polestar.com/)&nbsp; [Tata Motors](https://www.tatamotors.com/)| [Darwyn Motors](https://yourstory.com/2020/09/battery-packs-electric-vehicles-darwyn-motors-ip-startup/amp)&nbsp; [EVage](https://www.evage.in/) |
 | [**[EV/ADAS software]** Zenuity](https://www.zenuity.com/)|  |
 
 
@@ -266,8 +270,8 @@ _coming soon_
 
 | Origin  |  Leaders  |
 |:------|:-------------|
+| **India** | [Tata Motors](https://www.tatamotors.com/):tm: &nbsp; [EVage](https://www.evage.in/):tm: &nbsp; [Darwyn Motors](https://www.linkedin.com/company/darwyn-ventures/?originalSubdomain=ec):tm: &nbsp;  |
 | **Sweden** | [Volvo Cars](https://www.volvocars.com/):tm: &nbsp; [Zenuity](https://www.zenuity.com/):tm: |
-| **India** | [Tata Motors](https://www.tatamotors.com/):tm: |
 
 ---
 
