@@ -119,6 +119,7 @@ In short, supercaps are high-capacity capacitors. They have higher capacitance a
 [**:hearts: Lightweight green supercaps**](https://techxplore.com/news/2020-09-lightweight-green-supercapacitors-quickly-devices.amp) &nbsp; 
 [**:hearts: Rapid charging supercaps**](https://hackaday.com/2020/09/16/rapid-charging-supercapacitors/) &nbsp; 
 [**:hearts: Hybrid sc (with Li batteries)**](https://hackaday.com/2020/03/14/hybrid-supercapacitors-are-well-super/) &nbsp; 
+[**:hearts: Graphene supercaps**](https://newatlas.com/energy/skeleton-kit-superbattery-graphene-ultracpacitor/) &nbsp; 
 
 
 ### Electric Charging Stations
