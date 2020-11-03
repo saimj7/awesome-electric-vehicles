@@ -177,6 +177,7 @@ provides an overview on the charging infrastructure equipment; global policies; 
 |:------|:-------------|:----------------|:-------------|
 | [[Electric and Hybrid Vehicles] The state of the art of electric and hybrid vehicles](https://ieeexplore.ieee.org/abstract/document/989873) provides an overview of the electric and hybrid vehicles worldwide and their state of the art, with emphasis on the engineering philosophy and key technologies.| IEEE | 1295 | 2002
 | [[Supercapacitors] Design and synthesis of high performance flexible and green supercapacitors made of manganese‐dioxide‐decorated alkali lignin](https://onlinelibrary.wiley.com/doi/full/10.1002/est2.184) - A new class of biomass‐derived supercapacitor was successfully fabricated using a facile and low‐cost synthesis. The supercapacitor is lightweight, portable, and flexible.| Wiley | 137 | 2020
+| [[Supercapacitors] Covalent Organic Frameworks as Negative Electrodes for High‐Performance Asymmetric Supercapacitors](https://onlinelibrary.wiley.com/doi/10.1002/aenm.202001673) - Research on boosting the energy capacity of supercaps.| Wiley | 39 | 2020
 
 
 ## Universites and Labs
