@@ -90,9 +90,6 @@ One of the brains behind Tesla found a new way to make electric cars cheaper, ri
 [***Five challanges on the road to E-mobility:***](https://www.volvoce.com/global/en/news-and-events/news-and-stories/2019/five-challenges-on-the-road-to-electromobility/)
 Hear from Volvo on the top-notch challenges towards electromobility and how to overcome them!
 
-[***Five challanges on the road to E-mobility:***](https://www.volvoce.com/global/en/news-and-events/news-and-stories/2019/five-challenges-on-the-road-to-electromobility/)
-Hear from Volvo on the top-notch challenges towards electromobility and how to overcome them!
-
 [***Driverless E-trucks begin deliveries:***](https://www.independent.co.uk/news/world/europe/driverless-lorries-electric-deliveries-public-roads-sweden-einride-a8917451.html?amp)
 Driverless electric lorries begin deliveries in Sweden! Developers estimate vehicle will reduce road freight operating costs by about 60 %.
 
@@ -166,7 +163,7 @@ is a widely praised bestselling textbook, maintains the comprehensive, systems-l
 
 #### Electric Charging Stations
 
-[**An Overview on Electric Vehicle Charging Infrastructure**](https://www.tataelxsi.com/Perspectives/WhitePapers/TataElxsi_Whitepaper_An_Overview_on_Electric_Vehicle_Charging_Infrastructure.pdf)
+[**An Overview on Electric Vehicle Charging Infrastructure**](https://tataelxsi.com/storage/insights/December2020/x2duYkPYy74huw0gN7eQ.pdf)
 provides an overview on the charging infrastructure equipment; global policies; emerging business models: wireless/induction charging, battery swapping, vehicle to grid energy transfer. 
 
 - Source: **TataElxsi** &nbsp; Cited by: **-** &nbsp; Year: **2019**
