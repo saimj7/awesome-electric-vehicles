@@ -14,6 +14,7 @@
 * [Hardware Technology](#hardware-technology)
   - [Supercapacitors](#supercapacitors)
   - [Electric Charging Stations](#electric-charging-stations)
+  - [Energy Storage](#energy-storage)
 * [Software Technology](#software-technology)
   - [Electric Charging Networks](#electric-charging-networks)
 * [Software IDE](#software-ide)
@@ -105,6 +106,9 @@ Supercaps have much higher power densities than batteries – they can charge an
 [***Charging ahead: Electric-vehicle infrastructure demand***](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/charging-ahead-electric-vehicle-infrastructure-demand)
 Access to efficient charging could become a roadblock to electric-vehicle uptake. This article by McKinsey looks at the numbers and costs behind the problem. 
 
+[***Solar-Powered home charging station***](https://www.buildwithrise.com/stories/how-to-set-up-a-home-solar-pv-system-to-power-an-electric-car)
+Storing energy from the solar panels in order to power up your EV. 
+
 ## Hardware Technology
 > ***Revolutionary and advancing tech in EV industry you may ask?***
 
@@ -126,6 +130,9 @@ Nothing much to say here, a charging station is a McDonald's for EVs. However, w
 [**:battery: OppCharge**](https://www.oppcharge.org/) &nbsp; [**:battery: Heliox Fast Charging**](https://www.greencarcongress.com/2016/11/20161109-heliox.html) &nbsp;
 
 ***on the charge:*** coming soon
+
+### Energy Storage
+[**Go Solar with Tesla Powerwall 2**](https://www.buildwithrise.com/stories/tesla-powerwall2-basics) &nbsp; 
 
 ## Software Technology
 
