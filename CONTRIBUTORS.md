@@ -1,9 +1,8 @@
 # Contributor Guidelines
 
-Hi there! I'm very delighted you would like to contribute, considering research isn't an easy task.
-I value your dedication and commitment.
+Hi there! Awesome to see you'd like to contribute.
 
-***So, please follow the guidelines before submitting a pull request:***
+***So, please follow these guidelines before opening a pull request:***
 
 --- 
 
@@ -16,7 +15,4 @@ I value your dedication and commitment.
 - Before/After your contribution, please make sure all your added links are indeed working.
 <p>&nbsp;</p>
 
-**To sum up,** please remember that every contribution no matter how **small**, is highly appreciated and encouraged as it helps gather all the resources in one place for EV enthusiasts like yourself!
-
-
-_I will then personally review the content and initiate a merge. Thanks!_
+**To sum up,** please remember that every contribution no matter how **small**, is highly appreciated and encouraged as it helps gather all the resources in one place :)

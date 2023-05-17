@@ -1,11 +1,11 @@
 # Awesome Electric Vehicles [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-### Curated list of awesome electric vehicles :zap: and resources, inspired by [awesome-autonomous-vehicles](https://github.com/manfreddiaz/awesome-autonomous-vehicles).
-#### ***Welcome.*** Before you start, be a climate activist and win a Tesla Model 3 from [Arnold Schwarzenegger!](https://www.teslarati.com/greta-thunberg-tesla-model-3-arnold-schwarzenegger/amp/)
+#### Curated list of awesome electric vehicles :zap: and resources, inspired by [awesome-autonomous-vehicles](https://github.com/manfreddiaz/awesome-autonomous-vehicles).
+#### ***Welcome!*** Before you start, consider becoming a climate activist and win a Tesla Model 3 from [Arnold Schwarzenegger!](https://www.teslarati.com/greta-thunberg-tesla-model-3-arnold-schwarzenegger/amp/) ;)
 
 
-## Contributing
+## Contributing guidelines
 
-> **Please feel free to send me pull requests to add resources: [**Guidelines**](https://github.com/saimj7/awesome-electric-vehicles/blob/master/CONTRIBUTORS.md) - [**License**](https://github.com/saimj7/awesome-electric-vehicles/blob/master/LICENSE)** 
+> **Please feel free to open pull requests to add resources: [**Guidelines**](https://github.com/saimj7/awesome-electric-vehicles/blob/master/CONTRIBUTORS.md) - [**License**](https://github.com/saimj7/awesome-electric-vehicles/blob/master/LICENSE)** 
 
 ## Table of Contents
 * [Courses](#courses)
@@ -20,12 +20,10 @@
 * [Software IDE](#software-ide)
   - [Development](#development)
   - [Open-source](#open-source)
-* [Books and Papers](#books-and-papers)
-  - [Books](#books)
-  - [Research Papers](#research-papers)
-* [Universities and Labs](#universities-and-labs)
-  - [Universities](#universities)
-  - [Innovation Labs](#innovation-labs)
+* [Books](#books)
+* [Research papers](#research-papers)
+* [Universities](#universities)
+* [Innovation Labs](#innovation-labs)
 * [Sustainability and Climate Change](#sustainability-and-climate-change)
 * [The Electric Market](#the-electric-market)
   - [Electric Cars](#electric-cars)
@@ -33,7 +31,7 @@
   - [Electric Trucks](#electric-trucks)
   - [Motorcycles, Bikes](#motorcycles-bikes)
 * [Who's Leading?](#who's-leading?)
-  - [Employment?](#companies-and-start-ups)
+  - [Employment](#companies-and-start-ups)
   - [Companies](#companies-and-start-ups)
   - [Start-Ups](#companies-and-start-ups)
   - [Region Based](#region-based)
@@ -47,10 +45,11 @@
 * [[TuDelft] Electric Cars](https://www.edx.org/professional-certificate/delftx-electric-cars) - Get a basic understanding of electric cars and learn about leading technologies, development of profitable business models and effective policies. Offered by the Delft University of Technology, through edX.
 * [[Coursera] Electric Vehicles and Storage Technologies](https://www.edx.org/course/electric-cars-introductions) - Looks at some of the alternative energy options from the physical sciences domain, including wind energy, photovoltaic and photothermal energy, and nuclear energy. It also covers energy storage and electric vehicles, and energy efficiency and smart grid technologies. Offered by the University of California San Diego.
 * [[Coursera] Electric Vehicles and Mobility](https://www.coursera.org/learn/electric-vehicles-mobility) - Learn about 1. Will electric vehicles be the last to be allowed in megalopolises in the 21st century? 2. Does the environmental gain from vehicle electrification justify heavy investment in charging infrastructure? 3. Are electric vehicles only for wealthy people in developed countries? Offered by École des Ponts ParisTech.
-> ***Less charged:***
 * [[Udemy] EV Course](https://www.udemy.com/course/electric-vehicle-certificate-course/) - General understanding of EVs and basics. Nothing as complex as aforementioned.
 * [[Coursera] EV Course](https://www.udemy.com/course/electric-vehicle-certificate-course/) - A simple and short EV video, part of the course Electric Utilities Fundamentals and Future.
 * [[Coursera] Hybrid Cars](https://www.coursera.org/lecture/energy-environment-life/hybrid-cars-fp2Os) - A simple and short video on Hybrid Cars, part of the course Energy, Environment, and Everyday Life offered by the University of Illinoia.
+
+---
 
 ## Blogs and Mags
 > ***Top blogs and magazines electrified with the latest news:***
@@ -75,6 +74,8 @@ will help you decipher the rapidly changing world of 'green' cars: hybrids, plug
 
 [**Recharge News**](https://www.rechargenews.com/)
 for latest renewable energy news.
+
+---
 
 ## Articles
 > ***Simply just awesome and handpicked interesting articles:***
@@ -109,6 +110,8 @@ Access to efficient charging could become a roadblock to electric-vehicle uptake
 [***Solar-Powered home charging station***](https://www.buildwithrise.com/stories/how-to-set-up-a-home-solar-pv-system-to-power-an-electric-car)
 Storing energy from the solar panels in order to power up your EV. 
 
+---
+
 ## Hardware Technology
 > ***Revolutionary and advancing tech in EV industry you may ask?***
 
@@ -126,14 +129,14 @@ In short, supercaps are high-capacity capacitors. They have higher capacitance a
 
 ### Electric Charging Stations
 
-Nothing much to say here, a charging station is a McDonald's for EVs. However, what are the revolutionary advancements? I would say the legendary OppCharge/Opportunity Charging!
+> OppCharge/Opportunity Charging sounds revolutionary!
 
 [**:battery: OppCharge**](https://www.oppcharge.org/) &nbsp; [**:battery: Heliox Fast Charging**](https://www.greencarcongress.com/2016/11/20161109-heliox.html) &nbsp;
 
-***on the charge:*** coming soon
-
 ### Energy Storage
 [**Go Solar with Tesla Powerwall 2**](https://www.buildwithrise.com/stories/tesla-powerwall2-basics) &nbsp; 
+
+---
 
 ## Software Technology
 
@@ -143,8 +146,6 @@ Let's face it, we can easily find a charging station on Google Maps but with eve
 
 [**:battery: Your-Now**](https://www.your-now.com/our-solutions) &nbsp;
 
-***on the charge:*** coming soon
-
 ## Software IDE
 > ***Let it be dev tools or open-source software, it's perfect voltage down here:***
 
@@ -152,31 +153,34 @@ Let's face it, we can easily find a charging station on Google Maps but with eve
 [**MATLAB & Simulink**](https://www.mathworks.com/products/simulink.html)
 is probably the best practical environemnt for beginners. It supports graphical programming for modeling, simulating and analyzing multidomain dynamical systems including several libraries and toolboxes. One such toolbox for simulating electrical and hybrid powertrains is the QSS toolbox.
 
-[**<> QSS Toolbox**](https://www.mathworks.com/matlabcentral/fileexchange/73483-qss-toolbox)
+[**<***MathWorks***> QSS Toolbox**](https://www.mathworks.com/matlabcentral/fileexchange/73483-qss-toolbox)
 
 ### Open-Source
 **<***GitHub***>**[**Sustainable-Mobility**](https://github.com/saimj7/Sustainable-Mobility)
 is focussed on sizing and analyzing the ICU, Electric-Hybrid powertrains; understanding fuel consumption and energy efficiency.
 
-## Books and Papers
+---
+
+## Books
 > ***An aspiring EV scientist? Recharge here:***
 
-### Books
-#### Electric and Hybrid Vehicles
+### Electric and Hybrid Vehicles
 
 [**Electric and Hybrid Vehicles: Design Fundamentals, 2E**](https://books.google.com/books?hl=en&lr=&id=7AAWH_63HuAC&oi=fnd&pg=PP1&dq=hybrid+vehicles&ots=G-tgrDroZD&sig=xwWU2UA1kgoAEN-a19n0eIQcLa0&redir_esc=y#v=onepage&q=hybrid%20vehicles&f=false)
 is a widely praised bestselling textbook, maintains the comprehensive, systems-level perspective of electric and hybrid vehicles while covering the hybrid architectures and components of the vehicle in much greater detail. 
 
 - Source: **Google Books** &nbsp; Cited by: **950** &nbsp; Year: **2011**
 
-#### Electric Charging Stations
+### Electric Charging Stations
 
 [**An Overview on Electric Vehicle Charging Infrastructure**](https://tataelxsi.com/storage/insights/December2020/x2duYkPYy74huw0gN7eQ.pdf)
 provides an overview on the charging infrastructure equipment; global policies; emerging business models: wireless/induction charging, battery swapping, vehicle to grid energy transfer. 
 
 - Source: **TataElxsi** &nbsp; Cited by: **-** &nbsp; Year: **2019**
 
-### Research Papers
+---
+
+## Research Papers
 
 | **[Category] & Summary**  |  **Source**  |  **Cited**  |  **Year**  |
 |:------|:-------------|:----------------|:-------------|
@@ -184,22 +188,26 @@ provides an overview on the charging infrastructure equipment; global policies; 
 | [[Supercapacitors] Design and synthesis of high performance flexible and green supercapacitors made of manganese‐dioxide‐decorated alkali lignin](https://onlinelibrary.wiley.com/doi/full/10.1002/est2.184) - A new class of biomass‐derived supercapacitor was successfully fabricated using a facile and low‐cost synthesis. The supercapacitor is lightweight, portable, and flexible.| Wiley | 137 | 2020
 | [[Supercapacitors] Covalent Organic Frameworks as Negative Electrodes for High‐Performance Asymmetric Supercapacitors](https://onlinelibrary.wiley.com/doi/10.1002/aenm.202001673) - Research on boosting the energy capacity of supercaps.| Wiley | 39 | 2020
 
+---
 
-## Universites and Labs
-> ***An aspiring EV graduate? Or a PhD looking out for innovation labs?***
+## Universities
+> ***An aspiring EV graduate? Or a PhD looking out for innovation?***
 
-### Universities
 [**Chalmers University of Technology**](http://www.chalmers.se/en/education/programmes/masters-info/pages/automotive-engineering.aspx)
 is undoubtedly one of the leading universities in automotive research. The Master's programme in Automotive Engineering offers the students with in-depth knowledge on powertrains, vehicle dynamics, adas and safety.
 
 [**:mortar_board:Research**](https://research.chalmers.se) &nbsp; :mortar_board:Industry tie-ups: **Volvo** &nbsp; :mortar_board:Location: **Sweden** &nbsp;
 
-### Innovation Labs
+---
+
+## Innovation Labs
 [**MobilityXlab**](http://www.mobilityxlab.com/en)
 is a collaboration lab founded in 2017 by six global companies to create and develop new innovations within future mobility – with each other and with startups. Partners are CEVT, Ericsson, Veoneer, Volvo Cars, Volvo Group & Zenuity. 
 
 [**Chalmers Ventures**](https://www.chalmersventures.com/)
 is an incubator and accelerator that starts, develops and finances research and knowledge-based start-ups/companies. Got an idea? You might want to take a look, Sustainability is at the core of Chalmers.
+
+---
 
 ## Sustainability and Climate Change
 > ***High voltage topics: Electric vehicles Vs. Climate change; are EVs really good at emitting less CO2?***
@@ -210,6 +218,7 @@ Carbon dioxide emissions from plug-in hybrid cars are as much as **two-and-a-hal
 [***How green are electric cars?***](https://www.autoexpress.co.uk/news/353201/how-green-are-electric-cars-polestar-data-shows-ice-trailing-ev?amp)
 How electric cars are made is also crucial to their environmental impact. Polestar (EV maker) highlights that the production of battery packs is responsible for **“a relatively large carbon footprint”**.
 
+---
 
 ## The Electric Market
 > ***What and Who is electrifying the roads?***
@@ -259,19 +268,17 @@ Volta Zero is the first fully electric 16 tonne delivery vehicle. The Zero’s a
 [**Harley Davidson's**](https://electrek.co/2019/10/11/livewire-electric-motorcycle-save-harley-davidson/amp/)
 flagship electric motorcycle: The LiveWire; E Scooters and Off-road E bikes!
 
+---
+
 ## Who's Leading?
 > ***Who's leading and where? Employment/job opportunities?***
 
 ### Companies and Start-Ups
 
-_coming soon_
-
 | [Category] Companies  |  Start-Ups  |
 |:------|:-------------|
 | [**[EV maker]** Volvo Cars](https://www.volvocars.com/)&nbsp; [Polestar](https://www.polestar.com/)&nbsp; [Tata Motors](https://www.tatamotors.com/)| [Darwyn Motors](https://yourstory.com/2020/09/battery-packs-electric-vehicles-darwyn-motors-ip-startup/amp)&nbsp; [EVage](https://www.evage.in/) |
 | [**[EV/ADAS software]** Zenuity](https://www.zenuity.com/)|  |
-
-
 
 ### Region based
 
@@ -282,7 +289,6 @@ _coming soon_
 
 ---
 
+_Thanks for the read!_
 
-_Hopefully, this will evolve into an infinite library of knowledge about EVs and Sustainability, overtime._
-
-_saimj7/ 2020 © <a href="http://saimj7.github.io" target="_blank">Sai_Mj</a>._
+_saimj7/ 2020- © <a href="http://saimj7.github.io" target="_blank">Sai_Mj</a>._
