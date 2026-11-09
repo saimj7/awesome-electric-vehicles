@@ -80,6 +80,8 @@ for latest renewable energy news.
 ## Articles
 > ***Simply just awesome and handpicked interesting articles:***
 
+[***EPA and WLTP range by model***](https://evmodelcompare.com/epa-vs-wltp-range/) pairs published US and European ratings and identifies the model year, market and source readers should check before comparing them.
+
 [***Supercaps patent:***](https://chargedevs.com/newswire/lamborghini-and-mit-patent-a-new-material-for-supercapacitors/?utm_source=quora&utm_medium=referral)
 Lamborghini and MIT patent a new material for supercapacitors! How electrifying is that?
 
