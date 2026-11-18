@@ -17,6 +17,7 @@
   - [Energy Storage](#energy-storage)
 * [Software Technology](#software-technology)
   - [Electric Charging Networks](#electric-charging-networks)
+  - [Charging Maps and Apps](#charging-maps-and-apps)
 * [Software IDE](#software-ide)
   - [Development](#development)
   - [Open-source](#open-source)
@@ -145,6 +146,11 @@ In short, supercaps are high-capacity capacitors. They have higher capacitance a
 Let's face it, we can easily find a charging station on Google Maps but with evergrowing services like car sharing, parking, what we require is a serious fully connected infrastructure. Well, BMW and Daimler's Your-Now says they're bringing together five of the world's most innovative urban mobility concepts under just one roof:
 
 [**:battery: Your-Now**](https://www.your-now.com/our-solutions) &nbsp;
+
+### Charging Maps and Apps
+
+[**Transparent Laden**](https://transparent-laden.de/?lang=en#preisvergleich)
+is a commercial Android and iPhone charging app for supported European public charging points. Its map displays kWh prices in the markers and uses coloured borders to compare available, app-startable connectors with known prices in the current view. Charging requires an account, a payment method and an active plan; charging and any applicable time, blocking or parking costs are separate from the monthly base fee.
 
 ## Software IDE
 > ***Let it be dev tools or open-source software, it's perfect voltage down here:***
