@@ -150,7 +150,7 @@ Let's face it, we can easily find a charging station on Google Maps but with eve
 ### Charging Maps and Apps
 
 [**Transparent Laden**](https://transparent-laden.de/?lang=en#preisvergleich)
-is a commercial Android and iPhone charging app for supported European public charging points. Its map displays kWh prices in the markers and uses coloured borders to compare available, app-startable connectors with known prices in the current view. Charging requires an account, a payment method and an active plan; charging and any applicable time, blocking or parking costs are separate from the monthly base fee.
+is a commercial Android and iPhone charging app for supported European public charging points. Its map displays kWh prices in the markers and uses coloured borders to compare its service's known prices for app-startable connectors in the current view. Reported availability is shown separately; an availability filter can narrow the view. Charging requires an account, a payment method and an active plan; charging and any applicable time, blocking or parking costs are separate from the monthly base fee.
 
 ## Software IDE
 > ***Let it be dev tools or open-source software, it's perfect voltage down here:***
